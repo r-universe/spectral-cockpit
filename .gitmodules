@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/spectral-cockpit/universe
 	shallow = true
 	branch = HEAD
+[submodule "opusreader2"]
+	path = opusreader2
+	url = https://github.com/spectral-cockpit/opusreader2
+	shallow = true
+	registered = true

@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/spectral-cockpit/universe
+	url = https://github.com/spectral-cockpit/spectral-cockpit.r-universe.dev
 	branch = HEAD
 [submodule "opusreader2"]
 	path = opusreader2
